@@ -1,0 +1,10 @@
+img.logo-grande{
+	width: 256px;
+	margin-left: -50px;
+}
+img.logo-pequena{
+	width: 220px;
+}
+.botao{
+	margin-left: 40px !important;
+}
